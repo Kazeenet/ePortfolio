@@ -1,0 +1,15 @@
+<h2>Edit Item</h2>
+
+<form (ngSubmit)="saveItem()">
+
+  <label>Name:</label>
+  <input [(ngModel)]="item.name" name="name" required>
+
+  <label>Quantity:</label>
+  <input type="number" [(ngModel)]="item.quantity" name="quantity" required>
+
+  <button type="submit">Save Changes</button>
+</form>
+
+<br>
+<button (click)="goBack()">Cancel</button>

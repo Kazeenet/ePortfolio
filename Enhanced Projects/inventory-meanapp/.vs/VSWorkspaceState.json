@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\app",
+    "\\client\\src\\app\\components",
+    "\\client\\src\\app\\services",
+    "\\server",
+    "\\server\\middleware",
+    "\\server\\routes"
+  ],
+  "SelectedNode": "\\client\\src\\app\\app.html",
+  "PreviewInSolutionExplorer": false
+}

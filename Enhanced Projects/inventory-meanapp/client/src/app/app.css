@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.toolbar-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  margin: 0 auto;
+  font-size: 1.8rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.nav-buttons button {
+  margin-left: 10px;
+}
+
+.content {
+  padding: 20px;
+  min-height: calc(100vh - 160px);
+}
+
+.footer {
+  text-align: center;
+  padding: 20px;
+  color: #bbb;
+  font-size: 0.85rem;
+}

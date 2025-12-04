@@ -1,0 +1,37 @@
+<!-- HEADER / NAVBAR -->
+<mat-toolbar color="primary" class="header">
+  <div class="toolbar-container">
+
+    <!-- CENTERED TITLE -->
+    <span class="title">
+      Inventory Stock Manager
+    </span>
+
+    <!-- NAVIGATION BUTTONS -->
+    <div class="nav-buttons">
+
+      <button mat-button routerLink="/">Home</button>
+      <button mat-button routerLink="/add" *ngIf="auth.isLoggedIn()">Add Item</button>
+
+      <!-- Only show when NOT logged in -->
+      <button mat-button routerLink="/login" *ngIf="!auth.isLoggedIn()">Login</button>
+      <button mat-button routerLink="/register" *ngIf="!auth.isLoggedIn()">Register</button>
+
+      <!-- Only show when logged in -->
+      <button mat-button (click)="logout()" *ngIf="auth.isLoggedIn()">Logout</button>
+
+    </div>
+  </div>
+</mat-toolbar>
+
+
+<!-- MAIN CONTENT -->
+<div class="content">
+  <router-outlet></router-outlet>
+</div>
+
+
+<!-- FOOTER -->
+<footer class="footer">
+  Developed by Morgan Kazee © 2025 Portfolio Project • Email: tkazee1226@gmail.com
+</footer>

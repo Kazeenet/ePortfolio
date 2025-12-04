@@ -1,0 +1,20 @@
+.register-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.register-card {
+  width: 360px;
+  padding: 20px;
+}
+
+.register-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+h2 {
+  text-align: center;
+}
