@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kingq\\Documents\\schoolwork\\DSA Analysis and design\\Project Two Menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kingq\\Documents\\schoolwork\\DSA Analysis and design\\Project Two Menu\\Project Two Menu\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project Two Menu\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kingq\\Documents\\schoolwork\\DSA Analysis and design\\Project Two Menu\\Project Two Menu\\CS 300 ABCU_Advising_Program_Input.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project Two Menu\\CS 300 ABCU_Advising_Program_Input.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CS 300 ABCU_Advising_Program_Input.csv",
+              "DocumentMoniker": "C:\\Users\\Kingq\\Documents\\schoolwork\\DSA Analysis and design\\Project Two Menu\\Project Two Menu\\CS 300 ABCU_Advising_Program_Input.csv",
+              "RelativeDocumentMoniker": "Project Two Menu\\CS 300 ABCU_Advising_Program_Input.csv",
+              "ToolTip": "C:\\Users\\Kingq\\Documents\\schoolwork\\DSA Analysis and design\\Project Two Menu\\Project Two Menu\\CS 300 ABCU_Advising_Program_Input.csv",
+              "RelativeToolTip": "Project Two Menu\\CS 300 ABCU_Advising_Program_Input.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-11-06T21:02:20.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "C:\\Users\\Kingq\\Documents\\schoolwork\\DSA Analysis and design\\Project Two Menu\\Project Two Menu\\Menu.cpp",
+              "RelativeDocumentMoniker": "Project Two Menu\\Menu.cpp",
+              "ToolTip": "C:\\Users\\Kingq\\Documents\\schoolwork\\DSA Analysis and design\\Project Two Menu\\Project Two Menu\\Menu.cpp",
+              "RelativeToolTip": "Project Two Menu\\Menu.cpp",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAALgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-06T20:58:43.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/teal_200">
+
+<!-- Recycler view will hold inventory items when logic is installed. Each line in the
+view is intended to hold each relevant piece of information, including name, quantity,
+and date added. I currently do not know how to show that in the recycler view without
+implementing java logic yet. I am currently using the sample data provided by android
+studio for their recycler view.
+-->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerInventory"
+        android:layout_width="392dp"
+        android:layout_height="402dp"
+        android:layout_margin="8dp"
+        android:layout_marginTop="553dp"
+        android:layout_marginBottom="531dp"
+        app:layout_constraintBottom_toTopOf="@+id/enterProductName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.631"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:itemCount="21"/>
+
+    <EditText
+        android:id="@+id/enterProductName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp"
+        android:layout_marginTop="66dp"
+        android:hint="@string/product_name"
+        app:layout_constraintBottom_toTopOf="@id/enterQuantity"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/recyclerInventory" />
+
+    <EditText
+        android:id="@+id/enterQuantity"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp"
+        android:layout_marginTop="47dp"
+        android:layout_marginBottom="36dp"
+        android:hint="@string/quantity"
+        android:inputType="number"
+        app:layout_constraintBottom_toTopOf="@+id/enterDate"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/enterProductName" />
+
+    <EditText
+        android:id="@+id/enterDate"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp"
+        android:layout_marginTop="60dp"
+
+        android:layout_marginBottom="61dp"
+        android:hint="@string/date"
+        app:layout_constraintBottom_toTopOf="@+id/addButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/enterQuantity" />
+
+    <Button
+        android:id="@+id/addButton"
+        android:layout_width="195dp"
+        android:layout_height="85dp"
+        android:layout_margin="8dp"
+        android:layout_marginBottom="129dp"
+        android:backgroundTint="@color/teal_700"
+        android:text="@string/add"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/removeButton"
+        android:layout_width="195dp"
+        android:layout_height="85dp"
+        android:layout_margin="8dp"
+        android:layout_marginBottom="117dp"
+        android:backgroundTint="@color/teal_700"
+        android:text="@string/remove"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/addButton" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
