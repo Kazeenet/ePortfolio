@@ -1,4 +1,5 @@
-# Morgan Tyler Kazee — Computer Science ePortfolio
+# **Morgan Tyler Kazee**
+### *Computer Science ePortfolio*
 
 ## 🎓 Introduction and Self-Assessment
 
