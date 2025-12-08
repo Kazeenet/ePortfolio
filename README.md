@@ -1,4 +1,4 @@
-# **Morgan Tyler Kazee**
+# **Morgan Tyler Kazee - Information Technology Professional & Developer**
 ### *Computer Science ePortfolio*
 
 ## 🎓 Introduction and Self-Assessment
