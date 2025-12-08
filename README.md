@@ -1,24 +1,32 @@
-# **Morgan Tyler Kazee - Information Technology Professional & Developer**
-### *Computer Science ePortfolio*
+<div align="center">
 
-## 🎓 Introduction and Self-Assessment
+# **Morgan Tyler Kazee**
 
-Hello there, and nice to meet you!
+### *Computer Science ePortfolio*  
+### *Information Technology Professional & Developer*
 
-Throughout my four-year academic journey—beginning with an associate’s degree in Computer Information Technology at Indiana Wesleyan University and culminating in a bachelor’s degree in Computer Science at Southern New Hampshire University—I have completed a diverse array of projects, assignments, and research studies that have played a crucial role in shaping my technical strengths and clarifying my professional direction. These cumulative experiences have provided me with both the confidence and the practical, industry-relevant skills necessary for effective problem-solving in the IT and computer science fields.
+</div>
 
-My coursework has provided comprehensive exposure to key areas of computing, including programming, data structures and algorithms, artificial intelligence, web development, and database frameworks. Completing this ePortfolio, along with undertaking several self-directed enhancement projects, has allowed me to demonstrate my capability, adaptability, and determination to master new technologies and solve complex problems. These efforts reflect not only my technical competency but also my commitment to continuous learning. I view each new project or enhancement as an opportunity to further refine my expertise and expand my ability to contribute meaningfully within the software development and IT landscape.
+---
 
-Working in team-based environments throughout the program strengthened my collaboration skills, especially when using Git and GitHub to coordinate changes, review code, and maintain version control. I also gained experience communicating with stakeholders by writing design documents, explaining technical decisions, and translating complex concepts—such as reinforcement learning behavior or database schema design—into language that non-technical audiences could follow. These experiences helped me develop confidence in both teamwork and professional communication.
+## 🧑‍💻 Introduction and Self-Assessment
 
-My technical coursework provided a strong foundation in data structures, algorithms, software engineering, databases, and security. Building programs that used trees, hash maps, and sorting algorithms sharpened my ability to evaluate the efficiency and scalability of different solutions. Projects like my web-based inventory application and Grazioso Salvare dashboard taught me how to design modular software, build and query databases, and follow structured development processes. In addition, implementing secure coding practices—such as input validation, safe file handling, and proper authentication—helped me understand how to create systems that are both functional and secure.
+Hello, and thank you for visiting my portfolio.
 
-Overall, the combination of coursework and ePortfolio development has prepared me to enter the computer science field with a strong professional identity. It allowed me to demonstrate not only my technical expertise, but also my values as a computer science professional: clarity, collaboration, security-minded design, and a commitment to continuous learning. These experiences have made me far more confident, prepared to build a rewarding career, and eager to establish a strong reputation as I pursue opportunities in the industry.
+Throughout my four-year academic journey—beginning with an associate’s degree in Computer Information Technology at Indiana Wesleyan University and concluding with a bachelor’s degree in Computer Science at Southern New Hampshire University—I have worked on a wide range of projects, assignments, and research activities that have shaped my technical strengths and professional goals. These experiences have given me the confidence, foundational knowledge, and practical skills necessary to solve real-world problems in the IT and software development fields.
+
+My academic work exposed me to key areas of computing, including programming, data structures and algorithms, artificial intelligence, web application development, and database systems. Completing this ePortfolio, along with several self-directed enhancement projects, allowed me to further refine these skills and demonstrate my adaptability and willingness to master new technologies. Each project became an opportunity to strengthen my problem-solving abilities and expand my understanding of modern software practices.
+
+Collaborative coursework helped me build strong teamwork and communication skills, particularly when using Git and GitHub for version control, code review, and project coordination. I gained experience writing design documents, explaining technical decisions, and presenting complex ideas—such as reinforcement learning behavior or database schema logic—to both technical and non-technical audiences. These experiences strengthened my ability to communicate clearly and work effectively within team environments.
+
+My technical coursework provided a solid foundation in algorithms, software engineering principles, system design, database architecture, and secure coding practices. Building programs that used trees, hash maps, sorting algorithms, and modular design taught me how to evaluate efficiency, scalability, and maintainability. Projects such as my inventory management application and Grazioso Salvare dashboard enhanced my understanding of full-stack development, database integration, and structured development workflows. Incorporating secure coding practices—like input validation, safe file handling, and authentication—also reinforced the importance of designing systems that are both functional and secure.
+
+Overall, the combination of academic work and ePortfolio development has prepared me to enter the computer science field with a strong professional identity. I have developed not only technical expertise, but also the values that guide my work: clarity, collaboration, secure and thoughtful design, and a commitment to continuous learning. These experiences have made me confident in my abilities and eager to contribute meaningfully to future IT and software development opportunities.
 
 ---
 
 ## 🔍 What’s Included
 
-In this professional portfolio, I have included three original projects completed throughout my academic journey and reworked them into enhanced technical artifacts that demonstrate the full range of my abilities as a computer science professional. These enhancements showcase my strengths in software design and engineering, algorithms and data structures, and database development, while also reflecting my personal commitment to problem-solving and continuous improvement.
+This portfolio includes three original academic projects that I enhanced to demonstrate the full scope of my abilities as a computer science professional. These enhanced artifacts showcase strengths in software engineering, algorithms and data structures, and database development, as well as my dedication to refining and improving my work beyond course requirements.
 
-Each artifact highlights a distinct core competency—ranging from system architecture and secure data handling to AI experimentation and full-stack development—and together they form a cohesive representation of my technical depth, adaptability, and overall growth. Collectively, these works illustrate my ability to design, implement, test, and refine software solutions across various domains, as well as the professional mindset and skills I bring to future opportunities in the computer science field.
+Each artifact highlights a distinct technical competency—ranging from software architecture and secure data handling to AI experimentation and full-stack development. Together, they form a cohesive representation of my technical depth, adaptability, and growth throughout my academic journey. Collectively, these works demonstrate my ability to design, implement, test, and refine software solutions across multiple domains, as well as the professional mindset and problem-solving approach I bring to future roles in the computer science field.
