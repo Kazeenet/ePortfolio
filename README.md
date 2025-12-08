@@ -5,13 +5,15 @@
 ### *Computer Science ePortfolio*  
 ### *Information Technology Professional & Developer*
 
+📫 Contact: [tkazee1226@gmail.com](mailto:tkazee1226@gmail.com)
+
 </div>
 
 ---
 
 ## 🧑‍💻 Introduction and Self-Assessment
 
-Hello, and thank you for visiting my portfolio.
+Hello, and thank you for visiting my portfolio!
 
 Throughout my four-year academic journey—beginning with an associate’s degree in Computer Information Technology at Indiana Wesleyan University and concluding with a bachelor’s degree in Computer Science at Southern New Hampshire University—I have worked on a wide range of projects, assignments, and research activities that have shaped my technical strengths and professional goals. These experiences have given me the confidence, foundational knowledge, and practical skills necessary to solve real-world problems in the IT and software development fields.
 
