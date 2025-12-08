@@ -1,8 +1,7 @@
 <div align="center">
 
 # **Morgan Tyler Kazee**
-
-### *Computer Science ePortfolio*  
+ 
 ### *Information Technology Professional & Developer*
 
 📫 Contact: [tkazee1226@gmail.com](mailto:tkazee1226@gmail.com)
