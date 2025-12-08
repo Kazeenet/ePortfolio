@@ -1,5 +1,6 @@
-# Morgan Tyler Kazee - Computer Science ePortfolio
-Computer Science Portfolio: Introduction and Self-Assessment
+# Morgan Tyler Kazee — Computer Science ePortfolio
+
+## 🎓 Introduction and Self-Assessment
 
 Hello there, and nice to meet you!
 
@@ -13,6 +14,10 @@ My technical coursework provided a strong foundation in data structures, algorit
 
 Overall, the combination of coursework and ePortfolio development has prepared me to enter the computer science field with a strong professional identity. It allowed me to demonstrate not only my technical expertise, but also my values as a computer science professional: clarity, collaboration, security-minded design, and a commitment to continuous learning. These experiences have made me far more confident, prepared to build a rewarding career, and eager to establish a strong reputation as I pursue opportunities in the industry.
 
-<b> Whats included:</b>
+---
 
-In this professional portfolio, I have included three original projects completed throughout my academic journey and reworked them into enhanced technical artifacts that demonstrate the full range of my abilities as a computer science professional. These enhancements showcase my strengths in software design and engineering, algorithms and data structures, and database development, while also reflecting my personal commitment to problem-solving and continuous improvement. Each artifact highlights a distinct core competency—ranging from system architecture and secure data handling to AI experimentation and full-stack development—and together they form a cohesive representation of my technical depth, adaptability, and overall growth. Collectively, these works illustrate my ability to design, implement, test, and refine software solutions across various domains, as well as the professional mindset and skills I bring to future opportunities in the computer science field.
+## 🔍 What’s Included
+
+In this professional portfolio, I have included three original projects completed throughout my academic journey and reworked them into enhanced technical artifacts that demonstrate the full range of my abilities as a computer science professional. These enhancements showcase my strengths in software design and engineering, algorithms and data structures, and database development, while also reflecting my personal commitment to problem-solving and continuous improvement.
+
+Each artifact highlights a distinct core competency—ranging from system architecture and secure data handling to AI experimentation and full-stack development—and together they form a cohesive representation of my technical depth, adaptability, and overall growth. Collectively, these works illustrate my ability to design, implement, test, and refine software solutions across various domains, as well as the professional mindset and skills I bring to future opportunities in the computer science field.
