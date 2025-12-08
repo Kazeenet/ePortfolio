@@ -33,7 +33,7 @@ This portfolio includes three original academic projects that I enhanced to demo
 
 ### **📁 Original Artifacts**
 - **Keras Learning Model - Python, Junypter Notebook File**
-- **CSV Menu Program - C++**
+- **CSV Menu File - C++**
 - **Android Inventory Management App - Java, XML**
 
 ### **🚀 Enhanced Artifacts**
