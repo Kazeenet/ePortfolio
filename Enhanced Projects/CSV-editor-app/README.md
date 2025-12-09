@@ -1,5 +1,58 @@
-The original artifact for the second enhancement in this course is a very basic menu that prints the entire contents of a CSV file or searches for a keyword and prints an entry that matches. It was the final project CS-300: DSA Analysis and Design. Its purpose was to teach us how to incorporate different algorithms, such as binary search trees, to manipulate data in a CSV file. It was able to print the entire file, print one specific entry, and that is it. The program's original purpose was not about utility, as it was to give us hands-on experience with different search and storage algorithms. The purpose of this enhancement is to change that entirely and make this a fully functional program that would give a user the means to edit, create, or delete a CSV file in any way they wish. 
+# CSV Editor – C++ Console Application
 
-I selected this artifact to enhance because I have always desired to see it as a practical program. When created, we had to suspend our belief that this would actually be useful in a practical, real-world situation in any way, since the purpose was to learn algorithms and not actually create a functioning program. I wanted to change that, as a personal challenge and also an opportunity to learn more. I wanted to give the program not just the ability to print and search, but every CRUD operation that an actual functional program like this would have in the real world. Furthermore, the test CSV file that we manipulated in the original program was hard-coded in, and I wanted an opportunity to make a program for the first time that could manipulate any raw data that the user wishes, based on an input file directory. This enhancement conveys my ability to incorporate algorithms, specifically the vector algorithm, and use them to manipulate large amounts of data in a clean and effective way. 
+A lightweight CSV editing tool built in **C++** that allows users to load, view, modify, and save CSV files through a simple console interface. This program was originally developed as part of a computer science coursework project and has since been enhanced for flexibility, reliability, and usability.
 
-This enhancement went very well and, as planned, met every goal as laid out in the pre-emptive flow chart. Nothing major was added to the scope, other than some input validation measures. I am glad I ultimately decided for all three of our enhancements to be in different coding languages, because I was able to re-learn and brush up on previous C++ concepts and skills I had forgotten about, such as using header files. Using a language that I haven't used for over half a year was a bit of a challenge and a small learning curve, but I was able to quickly get back into it and even learn some new concepts I haven't used before. In particular, this was my first opportunity to include a read-me into the project itself, as many console-based programs have.  
+---
+
+## Features
+
+- **Load CSV files** into a structured in-memory format  
+- **Display CSV contents** in a clear, readable form  
+- **Edit rows or individual fields** interactively  
+- **Add or delete rows**  
+- **Save CSV files** under a user-defined filename  
+- **Validation & helpful user prompts** for file operations  
+- Handles malformed or missing CSV lines gracefully
+
+---
+
+## Included Test Files
+
+This repository includes sample CSV files such as:
+
+- `ABCU_Advising_Program_Input.csv`  
+- `customers100.csv`
+
+These files are provided to test the CSV Editor program.
+
+You can use them to test:
+
+- CSV parsing  
+- Row and field editing  
+- Adding and deleting rows  
+- Saving updated versions of the file  
+
+You can upload and edit your own CSV files by entering the directory path of the file's location on your computer
+
+---
+
+## How to Run
+
+### **Option 1 — Run the Executable**
+If using Windows:
+
+1. Download/locate `CSV editor.exe`
+2. Open it by double-clicking  
+3. Use the menu options to load or edit CSV files  
+4. Load included test CSV files or your own
+
+---
+
+### **Option 2 — Build from Source (Visual Studio)**
+
+1. Open the solution file:
+
+---
+
+Please access the help option in the program for additional questions.
+
