@@ -1,11 +1,146 @@
-For our third project enhancement in this course, I chose to create a web-based inventory management application. The original artifact is an Android app that was created for the course on Mobile Architecture and Programming. It was a simple mobile application that allowed users to add, edit, and delete inventory items, making them easily listed and tracked. For security purposes, I also implemented a mechanism that allowed the user to log in via username/password or create a new account. 
+# Inventory Management MEAN Application
 
-By completely converting this system and idea into a full-stack MEAN application, I believe I demonstrated my ability to work effectively within diverse structures, frameworks, and coding languages. The front-end concept of a mobile inventory management app and a browser management app might look the same on the front end, but the back-end framework and engineering are very different. Additionally, the mobile app used SQLite to store the database entries, accounts, and stock items, using SQL format on the phone's hard drive. However, the enhanced web-app used MongoDB, an entirely different JSON-based database format, and stored this information server-side. Because of this, the back-end is much more complex than the mobile version and incorporates several layers of components. This artifact is improved as a full-stack web application that relies on a server-side database, because it will allow several different warehouse workers to use the same inventory system simultaneously from their devices. In the original artifact, the inventory database was reliant on the actual mobile device hardware and could only be stored on that one device.
+A full-stack **Inventory Management System** built using the **MEAN stack** — MongoDB, Express.js, Angular, and Node.js — that enables users to manage inventory items through a modern user interface and secure backend API.
 
-The course outcomes that I established to align this third enhancement with involved design, development, writing sound and visually communicative code, demonstrating innovative techniques, and using algorithmic principles. In particular, the one course outcome that this enhancement establishes that is not present in any other of my projects is - 
+---
 
-<i>Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential exposures, mitigate design flaws, and ensure privacy and enhanced security of data and resources.</i>
+## Features
 
-This was the only course outcome left, as security was not really a focused feature of the other enhancements, as all of them were generally stand-alone, non-network-implementing programs. However, since this inventory management app is web-based, special care was taken to make sure that potential exploits were patched and accounted for. Additionally, I have implemented sound security practices by establishing a username and password login system that has input validation, password hiding via asterisks, etc. After producing this new project, all course outcomes have been accomplished within this course. 
+### Frontend (Angular 21)
+- Built with **Angular 21 (v21 workspace)**
+- **Angular Material** UI components with custom theming (`custom-theme.scss`)
+- **Service-based** API communication
+- **Authentication-aware UI** (login/register state)
+- CRUD interface for item management
+- Modern styling and responsive layout
 
-This was the only course outcome left, as security was not really a focused feature of the other enhancements, as all of them were generally stand-alone, non-network-implementing programs. However, since this inventory management app is web-based, special care was taken to make sure that potential exploits were patched and accounted for. Additionally, I have implemented sound security practices by establishing a username and password login system that has input validation, password hiding via asterisks, etc. After producing this new project, all course outcomes have been accomplished within this course. 
+### Backend (Node.js + Express)
+- RESTful API built using **Express 5**
+- MongoDB data storage via **Mongoose**
+- **JWT-based Authentication** (jsonwebtoken)
+- Password hashing using **bcrypt**
+- Environment configuration with **dotenv**
+- **CORS**-enabled secure communication
+- **Auto-reload** during development with nodemon
+
+---
+
+## Installation & Setup
+
+### 1. Clone the Repository
+
+*git clone https://github.com/KingQueso12/ePortfolio/Enhanced Projects/inventory-meanapp.git*
+
+*cd inventory-meanapp*
+
+---
+
+### 2. Server Setup (Node + Express)
+
+**Install dependencies:**
+
+*cd server*
+*npm install*
+
+
+**Create a `.env` file:**
+
+*MONGO_URI=mongodb://localhost:27017/inventoryDB*
+*JWT_SECRET=yourSecretKey*
+*PORT=5000*
+
+**Run the server:**
+
+*npm run dev # uses nodemon*
+
+or
+
+*npm start*
+
+
+The backend runs on:  
+ [http://localhost:5000](http://localhost:5000)
+
+**Backend Dependencies:**
+- express  
+- mongoose  
+- bcrypt  
+- jsonwebtoken  
+- dotenv  
+- cors  
+- nodemon (dev)
+
+---
+
+### 3. Client Setup (Angular)
+
+**Install dependencies:**
+
+*cd client*
+*npm install*
+
+
+**Run Angular development server:**
+
+*npm start*
+
+The Angular client runs on:  
+[http://localhost:4200](http://localhost:4200)
+
+**Angular build configuration** (assets, styles, environments) is defined in `angular.json`.
+
+---
+
+## Connecting Client and Server
+
+In your Angular services, set the API base URL to:
+
+*http://localhost:5000/api/...*
+
+Ensure **CORS** is enabled in your Express server (already included in dependencies).
+
+---
+
+## Testing
+
+**Angular Unit Tests:**
+
+*ng test*
+
+---
+
+## Authentication Overview
+
+- Passwords hashed using **bcrypt**
+- **JWT tokens** used for session management and route protection
+- Authentication middleware secures private routes
+
+---
+
+## Database Information
+
+- Uses **MongoDB** with **Mongoose ODM**
+- Default local storage path:
+
+C:\Users(<b>YourName</b>)\AppData\Local\MongoDB\
+
+- For **MongoDB Atlas**, update your `.env`:
+
+MONGO_URI=mongodb+srv://<b>username</b>:<b>password</b>@<b>cluster-url</b>/inventoryDB
+
+---
+
+## Technologies Used
+
+| Layer | Technologies |
+|-------|---------------|
+| **Frontend** | Angular 21, Angular Material, TypeScript, RxJS |
+| **Backend** | Node.js, Express.js, Mongoose/MongoDB, JWT, bcrypt |
+
+---
+
+
+## Author
+
+**Morgan Tyler Kazee**  
+💻 Computer Science & Full-Stack Developer
