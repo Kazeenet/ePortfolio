@@ -1,0 +1,2 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+Treasure[[:space:]]Hunt.exe filter=lfs diff=lfs merge=lfs -text
