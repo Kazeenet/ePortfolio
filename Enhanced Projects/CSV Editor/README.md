@@ -1,4 +1,4 @@
-# CSV Editor – C++ Console Application
+# CSV Editor- C++ Console Application
 
 A lightweight CSV editing tool built in **C++** that allows users to load, view, modify, and save CSV files through a simple console interface. This program was originally developed as part of a computer science coursework project and has since been enhanced for flexibility, reliability, and usability.
 

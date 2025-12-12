@@ -4,6 +4,20 @@ A full-stack **Inventory Management System** built using the **MEAN stack** — 
 
 ---
 
+### Login Page
+![Login Page](screenshots/login.png)
+*Secure authentication with JWT tokens*
+
+### Inventory Dashboard
+![Inventory Dashboard](screenshots/dashboard.png)
+*View and manage all inventory items with edit and delete actions*
+
+### Add New Item
+![Add Item Page](screenshots/add-item.png)
+*Simple form interface for adding new inventory items*
+
+---
+
 ## Features
 
 ### Frontend (Angular 21)
