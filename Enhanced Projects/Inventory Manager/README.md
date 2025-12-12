@@ -136,7 +136,7 @@ Ensure **CORS** is enabled in your Express server (already included in dependenc
 - Uses **MongoDB** with **Mongoose ODM**
 - Default local storage path:
 
-C:\Users(<b>YourName</b>)\AppData\Local\MongoDB\
+C:\Users\\<b>YourName</b>\AppData\Local\MongoDB\
 
 - For **MongoDB Atlas**, update your `.env`:
 
