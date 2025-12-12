@@ -152,9 +152,3 @@ MONGO_URI=mongodb+srv://<b>username</b>:<b>password</b>@<b>cluster-url</b>/inven
 | **Backend** | Node.js, Express.js, Mongoose/MongoDB, JWT, bcrypt |
 
 ---
-
-
-## Author
-
-**Morgan Tyler Kazee**  
-💻 Computer Science & Full-Stack Developer
