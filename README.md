@@ -34,7 +34,7 @@
 
 Hello, and thank you for visiting my ePortfolio!
 
-Throughout my four-year academic journey—beginning with an AS in Computer Information Technology at Indiana Wesleyan University and concluding with a BS in Computer Science at Southern New Hampshire University—I have worked on a wide range of projects, assignments, and research activities that have shaped my technical strengths and professional goals. These experiences have given me the confidence, foundational knowledge, and practical skills necessary to solve real-world problems in the IT and software development fields.
+Throughout my four-year academic journey—beginning with an A.S. in Computer Information Technology at Indiana Wesleyan University and concluding with a B.S. in Computer Science at Southern New Hampshire University—I have worked on a wide range of projects, assignments, and research activities that have shaped my technical strengths and professional goals. These experiences have given me the confidence, foundational knowledge, and practical skills necessary to solve real-world problems in the IT and software development fields.
 
 My academic work exposed me to key areas of computing, including programming, data structures and algorithms, artificial intelligence, web application development, and database systems. Completing this ePortfolio, along with several self-directed enhancement projects, allowed me to further refine these skills and demonstrate my adaptability and willingness to master new technologies. Each project became an opportunity to strengthen my problem-solving abilities and expand my understanding of modern software practices.
 
