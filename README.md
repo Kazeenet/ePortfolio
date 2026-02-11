@@ -51,7 +51,7 @@ Overall, the combination of academic work and ePortfolio development has prepare
 This portfolio includes three original academic projects that I enhanced to demonstrate the full scope of my abilities as a computer science professional. These enhanced artifacts showcase strengths in software engineering, algorithms and data structures, and database development, as well as my dedication to refining and improving my work beyond course requirements.
 
 ### **📁 Original Artifacts**
-- **Keras Learning Model - Python, Junypter Notebook File**
+- **Keras Learning Model - Python, Juypter Notebook File**
 - **CSV Menu File - C++**
 - **Android Inventory Management App - Java, XML**
 
